@@ -9,7 +9,7 @@ public class BuyAndSellStock {
                 maxProfit += arr[i] - arr[i - 1];
             }
         }
-        System.out.println("The Maimum Profit is " + maxProfit);
+        System.out.println("The Maximum Profit is " + maxProfit);
     }
 
     public static void main(String[] args) {
